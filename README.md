@@ -1,12 +1,9 @@
 # Friends
 
-This is basically a tribute page to friends. One of the most loved sitcoms of all time. I tried to provide my view through this website.
+It's a basic webpage showcasing my design skills, writing skills and my obsession with friends.
 
-It is one of the freeCodeCamp projects.
-
-Right now I have kept it pretty basic but hopefully I'll make it more involved in the future.
+Also this is to brainwash you to join the club :grin:
 
 You can check it out here:
 https://codepen.io/ishg-153/full/vYyZPwN
 
-Let me know if you have anything to add by opening a new issue.
